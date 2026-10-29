@@ -1,4 +1,4 @@
-import org.example.new_implementation.CustomStringBuilder;
+import org.example.string_builder.new_implementation.CustomStringBuilder;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class CustomStringBuilderTest {
 
     @Test
-    void testAppendSucces() {
+    void testAppendSuccess() {
 
         CustomStringBuilder builder = new CustomStringBuilder("Привет");
 
