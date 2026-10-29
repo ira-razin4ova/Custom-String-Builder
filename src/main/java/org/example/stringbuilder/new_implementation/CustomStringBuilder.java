@@ -1,4 +1,4 @@
-package org.example.new_implementation;
+package org.example.stringbuilder.new_implementation;
 
 import java.util.ArrayDeque;
 
