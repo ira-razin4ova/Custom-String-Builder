@@ -1,4 +1,4 @@
-package org.example.snapshot;
+package org.example.string_builder.snapshot;
 
 import java.util.Arrays;
 
