@@ -1,6 +1,6 @@
-package org.example.snapshot;
+package org.example.stringbuilder.snapshot;
 
-import org.example.user.User;
+import org.example.stringbuilder.user.User;
 
 import java.util.ArrayDeque;
 import java.util.Optional;

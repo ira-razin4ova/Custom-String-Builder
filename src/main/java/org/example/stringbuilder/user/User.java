@@ -1,6 +1,6 @@
-package org.example.user;
+package org.example.stringbuilder.user;
 
-import org.example.snapshot.Snapshot;
+import org.example.stringbuilder.snapshot.Snapshot;
 
 import java.util.ArrayDeque;
 import java.util.HashMap;
